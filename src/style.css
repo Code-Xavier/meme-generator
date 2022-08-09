@@ -68,3 +68,15 @@ main {
   cursor: pointer;
 }
 
+.meme-image {
+  max-width: 100%;
+  margin-top: 10px;
+  border-radius: 5px;
+}
+
+.meme-box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}

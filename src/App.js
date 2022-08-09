@@ -6,7 +6,9 @@ function App() {
     <div>
       <Header />
       <Meme />
+      {console.log("app component rendered")}
     </div>
+    
   );
 }
 
